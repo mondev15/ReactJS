@@ -2,6 +2,13 @@
 
  - Using JSX (JavaScript eXtension) : implemented by facebook 
  - A React Component must have render method
+   * Native Javascript : 
+      React.createElement('div', {className: 'ui items'},
+       'Hello, friend! I am a basic React component.'
+      )
+   * JSX : <div className='ui items'>
+             Hello, friend! I am a basic React component.
+           </div>
  - Passing Data Through Props
  - Function Components
  - Storing a History of Moves
