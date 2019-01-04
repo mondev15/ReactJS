@@ -1,6 +1,6 @@
 ### Notions abordées
 
- - Using JSX (JavaScript eXtension) : implemented by facebook 
+ - Using JSX (JavaScript eXtension) : implemented by facebook  and transpiled into Javascript via babel
  - A React Component must have render method
    * Native Javascript : 
       React.createElement('div', {className: 'ui items'},
