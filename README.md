@@ -1,5 +1,6 @@
 ### Notions abordées
 
+ - Using JSX (JavaScript eXtension) : implemented by facebook 
  - Passing Data Through Props
  - Function Components
  - Storing a History of Moves
