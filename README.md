@@ -1,6 +1,7 @@
 ### Notions abordées
 
  - Using JSX (JavaScript eXtension) : implemented by facebook 
+ - A React Component must have render method
  - Passing Data Through Props
  - Function Components
  - Storing a History of Moves
