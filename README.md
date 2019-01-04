@@ -1,3 +1,11 @@
+### Notions abordées
+
+ - Passing Data Through Props
+ - Function Components
+ - Storing a History of Moves
+ - Showing the past moves
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
