@@ -9,6 +9,7 @@
    * JSX : <div className='ui items'>
              Hello, friend! I am a basic React component.
            </div>
+ - ReactDOM.render([what], [where])          
  - Passing Data Through Props
  - Function Components
  - Storing a History of Moves
