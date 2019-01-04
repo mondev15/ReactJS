@@ -10,7 +10,7 @@
              Hello, friend! I am a basic React component.
            </div>
  - ReactDOM.render([what], [where])          
- - Passing Data Through Props
+ - Passing Data Through Props (Children-Parent communication)
  - Function Components
  - Storing a History of Moves
  - Showing the past moves
